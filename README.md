@@ -1,2 +1,3 @@
 # PoC-SSTI-pugTemplate
-SSTI test
+
+Pug Templating System for NodeJS Applications
