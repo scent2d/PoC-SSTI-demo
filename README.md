@@ -1,3 +1,3 @@
-# PoC-SSTI-pugTemplate
+# PoC-SSTI-pug
 
 Pug Templating System for NodeJS Applications
